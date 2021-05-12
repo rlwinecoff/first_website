@@ -5,12 +5,12 @@ description: Ruth Winecoff is a PhD candidate at Indiana University.
 keywords: Public affairs, public finance, policy analysis, municipal bond market.
 ---
 
-Ruth Winecoff is a PhD candidate in Public Affairs at Indian University. 
+Ruth Winecoff is a PhD candidate in Public Affairs at Indiana University. 
 Her primary research interest is the municipal bond market in addition to 
 public finance and policy analysis topics more broadly. 
 
 
-[curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
+/* [curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
 
 
 ---
