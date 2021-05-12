@@ -1,11 +1,14 @@
 ---
 layout: frontpage
-title: Blue Ham
-description: Blue Ham is a PhD candidate at Broom University. 
-keywords: Blue, Ham, treats, recycling, mail, being a good boy
+title: Ruth Winecoff
+description: Ruth Winecoff is a PhD candidate at Indiana University. 
+keywords: Public affairs, public finance, policy analysis, municipal bond market.
 ---
 
-Blue Ham is a PhD candidate at Broom University. His research interests include analyzing the effectiveness of treat-based incentives such as recycling and getting the mail, as well as designing new methods to protect humans from the adverse effects of rolling trash receptacles.
+Ruth Winecoff is a PhD candidate in Public Affairs at Indian University. 
+Her primary research interest is the municipal bond market in addition to 
+public finance and policy analysis topics more broadly. 
+
 
 [curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
 
