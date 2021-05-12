@@ -10,9 +10,6 @@ Her primary research interest is the municipal bond market in addition to
 public finance and policy analysis topics more broadly. 
 
 
-/* [curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
-
-
 ---
 
 
@@ -20,7 +17,7 @@ public finance and policy analysis topics more broadly.
 <h4><a name="contact"></a>contact</h4>
 
     <div class="row-fluid">
-        <div class="span5">
+        <div class="span2">
             Blue Ham<br/>
             Email: WOOFWOOF@goodboy.com<br/>
         </div>
@@ -42,3 +39,5 @@ public finance and policy analysis topics more broadly.
       </ul>
   </div>
 </div>
+
+[curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf) <br/>
